@@ -1,5 +1,5 @@
 # Chatserver
-The server for dobbychat: github.com/p0syd0n/dobbychat
+The server for dobbychat: https://github.com/p0syd0n/dobbychat
 
 the repl is here:
 https://replit.com/@posydon/chatserver
